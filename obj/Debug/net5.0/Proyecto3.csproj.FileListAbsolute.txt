@@ -1,0 +1,16 @@
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\bin\Debug\net5.0\Proyecto3.exe
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\bin\Debug\net5.0\Proyecto3.deps.json
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\bin\Debug\net5.0\Proyecto3.runtimeconfig.json
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\bin\Debug\net5.0\Proyecto3.runtimeconfig.dev.json
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\bin\Debug\net5.0\Proyecto3.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\bin\Debug\net5.0\ref\Proyecto3.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\bin\Debug\net5.0\Proyecto3.pdb
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\obj\Debug\net5.0\Proyecto3.csprojAssemblyReference.cache
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\obj\Debug\net5.0\Proyecto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\obj\Debug\net5.0\Proyecto3.AssemblyInfoInputs.cache
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\obj\Debug\net5.0\Proyecto3.AssemblyInfo.cs
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\obj\Debug\net5.0\Proyecto3.csproj.CoreCompileInputs.cache
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\obj\Debug\net5.0\Proyecto3.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\obj\Debug\net5.0\ref\Proyecto3.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\obj\Debug\net5.0\Proyecto3.pdb
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 3\Proyecto 3\Proyecto3\obj\Debug\net5.0\Proyecto3.genruntimeconfig.cache
